@@ -17,6 +17,7 @@ Example:
 
 
 17,-23,CLOCKWISE_90,with_mast_degraded,Ocean
+
 -16,-21,COUNTERCLOCKWISE_90,rightsideup_fronthalf,Ocean
 
 
